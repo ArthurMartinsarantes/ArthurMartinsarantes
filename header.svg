@@ -1,0 +1,23 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"><animate attributeName="stop-color" values="#071426;#101b3d;#071426" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="0.5" stop-color="#123C70"><animate attributeName="stop-color" values="#123C70;#164e63;#123C70" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#2563EB;#06B6D4" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#67E8F9" stop-opacity="0"/><stop offset="0.5" stop-color="#67E8F9"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <g opacity="0.22" stroke="#BAE6FD" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/><path d="M120 0V300M240 0V300M360 0V300M480 0V300M600 0V300M720 0V300M840 0V300M960 0V300M1080 0V300"/>
+  </g>
+  <circle cx="1050" cy="62" r="70" fill="#22D3EE" opacity="0.12"><animate attributeName="r" values="70;92;70" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="1120" cy="220" r="115" fill="#2563EB" opacity="0.15"><animate attributeName="cy" values="220;200;220" dur="6s" repeatCount="indefinite"/></circle>
+  <g fill="#A5F3FC" filter="url(#glow)"><circle cx="105" cy="58" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="1030" cy="175" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="950" cy="45" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/></circle></g>
+  <path d="M0 250 C220 210 320 285 530 245 S850 210 1200 250 V300 H0Z" fill="#071426" opacity="0.7"/>
+  <path d="M0 248 C220 208 320 283 530 243 S850 208 1200 248" stroke="url(#line)" stroke-width="2" fill="none"><animate attributeName="d" values="M0 248 C220 208 320 283 530 243 S850 208 1200 248;M0 255 C220 220 320 270 530 250 S850 220 1200 255;M0 248 C220 208 320 283 530 243 S850 208 1200 248" dur="7s" repeatCount="indefinite"/></path>
+  <text x="600" y="116" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Arthur Martins Arantes</text>
+  <text x="600" y="158" text-anchor="middle" fill="#CFFAFE" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Engenharia de Computação  •  Desenvolvedor  •  IA, Cloud &amp; Automação</text>
+  <text x="600" y="202" text-anchor="middle" fill="#7DD3FC" font-family="monospace" font-size="15">Construindo soluções que conectam negócio, tecnologia e impacto.</text>
+</svg>

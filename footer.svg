@@ -1,0 +1,5 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#0EA5E9"/><stop offset="0.5" stop-color="#2563EB"/><stop offset="1" stop-color="#0F172A"/></linearGradient></defs>
+  <path d="M0 38 C180 105 300 0 480 48 S800 110 1200 28 V150 H0Z" fill="url(#g)" opacity="0.9"><animate attributeName="d" values="M0 38 C180 105 300 0 480 48 S800 110 1200 28 V150 H0Z;M0 58 C180 5 300 110 480 38 S800 10 1200 55 V150 H0Z;M0 38 C180 105 300 0 480 48 S800 110 1200 28 V150 H0Z" dur="9s" repeatCount="indefinite"/></path>
+  <path d="M0 60 C180 125 300 20 480 68 S800 130 1200 48" stroke="#A5F3FC" stroke-opacity="0.5" stroke-width="2"><animate attributeName="d" values="M0 60 C180 125 300 20 480 68 S800 130 1200 48;M0 80 C180 25 300 130 480 58 S800 30 1200 75;M0 60 C180 125 300 20 480 68 S800 130 1200 48" dur="9s" repeatCount="indefinite"/></path>
+</svg>
