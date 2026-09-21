@@ -24,7 +24,7 @@
 
 ---
 
-# 👨‍💻 Perfil profissional
+# Perfil profissional
 
 Sou **Engenheiro da Computação**, desenvolvedor e entusiasta de **Inteligência Artificial, Cloud Computing e automação**, com experiência no desenvolvimento de software, análise de dados, sistemas corporativos e digitalização de processos.
 
@@ -49,7 +49,7 @@ Tecnologias e plataformas com as quais trabalho:
 
 ---
 
-# 🧑‍💻 Sobre mim
+# Sobre mim
 
 <div align="center">
 
@@ -67,9 +67,9 @@ Tecnologias e plataformas com as quais trabalho:
 
 ---
 
-# 🚀 O que estou construindo
+# O que estou construindo
 
-## ☁️ 01 — AWS User Group Tupaciguara
+## 01 — AWS User Group Tupaciguara
 
 Sou **Fundador e Líder do AWS User Group Tupaciguara**, comunidade voltada ao compartilhamento de conhecimento sobre computação em nuvem, inteligência artificial e desenvolvimento.
 
@@ -105,7 +105,7 @@ A ideia é mostrar como utilizar IA não apenas para gerar código, mas como uma
 
 ---
 
-# 🤖 02 — Inteligência Artificial + AWS Kiro
+# 02 — Inteligência Artificial + AWS Kiro
 
 Tenho explorado diferentes formas de utilizar IA no desenvolvimento de software, principalmente através do **AWS Kiro**.
 
@@ -127,7 +127,7 @@ Meu objetivo é explorar como a IA pode participar de diferentes etapas do ciclo
 
 ---
 
-# 🌐 03 — Arthur Engenharia & Tecnologia
+# 03 — Arthur Engenharia & Tecnologia
 
 Também estou construindo meu próprio espaço para apresentar meus projetos, experiências e experimentos tecnológicos.
 
@@ -146,7 +146,7 @@ O projeto funciona como um portfólio para apresentar soluções desenvolvidas e
 
 ---
 
-# 🏭 04 — Sistemas Web e Aplicações Empresariais
+# 04 — Sistemas Web e Aplicações Empresariais
 
 Uma das soluções desenvolvidas foi para **Vazante Agropecuária / Destilaria Cachoeira**, envolvendo diferentes áreas do processo operacional.
 
@@ -175,7 +175,7 @@ Esse projeto representa a aplicação de desenvolvimento de software em um **pro
 
 ---
 
-# 📊 05 — Automação e Dados
+# 05 — Automação e Dados
 
 Também venho desenvolvendo soluções envolvendo análise de dados, automação e integração de informações.
 
@@ -205,7 +205,7 @@ Essas tecnologias são utilizadas em projetos relacionados a:
 
 ---
 
-# ⚙️ Tecnologias e ferramentas
+# Tecnologias e ferramentas
 
 <p align="center">
 
@@ -237,7 +237,7 @@ Essas tecnologias são utilizadas em projetos relacionados a:
 
 ---
 
-# 🎯 Em movimento
+# Em movimento
 
 <p align="center">
   <img src="./focus.svg" alt="Painel animado das áreas de foco" />
@@ -249,7 +249,7 @@ Essas tecnologias são utilizadas em projetos relacionados a:
 
 ---
 
-# 🔭 Atualmente explorando
+# Atualmente explorando
 
 ```text
 🤖 Inteligência Artificial
